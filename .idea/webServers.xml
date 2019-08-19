@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="06770dfb-9ca5-4262-9270-558476428475" name="hlaravel" url="http://47.100.101.79">
+        <fileTransfer host="47.100.101.79" port="22" rootFolder="/usr/local/nginx/html/hlaravel58" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
